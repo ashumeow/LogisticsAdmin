@@ -9,6 +9,6 @@ Access Demo : <a href="http://windowsgeekpro.in/modular_system/logisticsadmin/">
 For Donation : <br>
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ashumeow)
 
-Licensed under MIT (free) by @ashumeow.
 
-And <a href="https://github.com/DashboardPack">Credits</a>
+
+<a href="https://github.com/ashumeow/LogisticsAdmin/blob/master/LICENSE">License</a> And <a href="https://github.com/DashboardPack">Credits</a>
